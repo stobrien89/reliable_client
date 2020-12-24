@@ -2,3 +2,12 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+
+.banner-image {
+  height: 40vh;
+  background: url("../placeholder.jpg");
+}
+
+.bg-cover {
+  background-size: 100% 100%;
+}

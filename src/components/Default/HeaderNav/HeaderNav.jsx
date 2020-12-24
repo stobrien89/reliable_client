@@ -1,9 +1,13 @@
 import React from "react";
 import Nav from './Nav';
+import Header from './Header'
 
 const HeaderNav = () => {
-  return (<Nav></Nav>
-
+  return (
+    <>
+  <Header></Header>
+  <Nav></Nav>
+    </>
   );
 };
 
