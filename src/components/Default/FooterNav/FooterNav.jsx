@@ -1,7 +1,7 @@
 import React from "react";
 
 const FooterNav = () => {
-  return <footer class="text-center text-lg-start bg-dark">
+  return <footer class="text-center text-lg-start bg-dark text-muted">
   
   <div class="container p-4">
   
