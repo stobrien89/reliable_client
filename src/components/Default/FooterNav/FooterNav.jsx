@@ -17,42 +17,12 @@ const FooterNav = () => {
         </p>
       </div>
      
-      <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-        <h5 class="text-uppercase">Links</h5>
-
-        <ul class="list-unstyled mb-0">
-          <li>
-            <a href="#!" class="text-dark">Link 1</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 2</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 3</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 4</a>
-          </li>
-        </ul>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 mt-lg-5 mb-4 mb-md-0">
+        <i class="fa fa-2x fa-facebook-square"></i>
       </div>
       
-      <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-        <h5 class="text-uppercase mb-0">Links</h5>
-
-        <ul class="list-unstyled">
-          <li>
-            <a href="#!" class="text-dark">Link 1</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 2</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 3</a>
-          </li>
-          <li>
-            <a href="#!" class="text-dark">Link 4</a>
-          </li>
-        </ul>
+      <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 mt-lg-5 mb-4 mb-md-0">
+        <i class="fa fa-2x fa-envelope"></i>
       </div>
       
     </div>
@@ -62,8 +32,7 @@ const FooterNav = () => {
 
   
   <div class="text-center p-3" >
-    © 2020 Copyright:
-    <a class="text-dark" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © {(new Date().getFullYear())} Copyright: Prestige Worldwide
   </div>
   
 </footer>
