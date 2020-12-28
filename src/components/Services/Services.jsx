@@ -9,56 +9,56 @@ const Services = () => {
             </div>
         </div>
         <hr/>
-        <div className="row text-center">
+        <div className="row mb-4">
             <div className="col-md-4">
-                <div className="row text-md-center">
-                    <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+                <div className="row d-flex justify-content-center">
+                    <i className="fa fa-bath fa-lg"></i>
+                    <h5 class="ml-3">Plumbing</h5>
                 </div>
                 <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
             <div className="col-md-4">
-                <div className="row">
-                    <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+                <div className="row d-flex justify-content-center">
+                    <i className="fa fa-window-restore fa-lg"></i>
+                    <h5 class="ml-3">Glass</h5>
                 </div>
                 <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
             <div className="col-md-4">
-               <div className="row">
-                <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+               <div className="row d-flex justify-content-center">
+                <i className="fa fa-wrench fa-lg"></i>
+                    <h5 class="ml-3">Drywall</h5>
                </div>
                <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
             <div className="col-md-4">
-                <div className="row text-md-center">
-                    <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+                <div className="row d-flex justify-content-center">
+                    <i className="fa fa-paint-brush fa-lg"></i>
+                    <h5 class="ml-3">Painting</h5>
                 </div>
                 <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
             <div className="col-md-4">
-                <div className="row">
-                    <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+                <div className="row d-flex justify-content-center">
+                    <i className="fa fa-plug fa-lg"></i>
+                    <h5 class="ml-3">Electrical</h5>
                 </div>
                 <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
             <div className="col-md-4">
-               <div className="row">
-                <i className="fa fa-wrench"></i>
-                    <h5 class="ml-3">Service</h5>
+               <div className="row d-flex justify-content-center">
+                <i className="fa fa-wrench fa-lg"></i>
+                    <h5 class="ml-3">Furniture</h5>
                </div>
                <div className="row">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
