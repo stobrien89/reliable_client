@@ -1,7 +1,8 @@
 import React from "react";
 
 const Testimonials = () => {
-    return <div class="container main-content">
+    return (
+    <div class="container main-content">
         <div className="row mt-5">
             <div className="col-md-12">
                 <h2 class="mb-4">Testimonials</h2>
@@ -27,7 +28,7 @@ const Testimonials = () => {
                 <p><strong>-John Doe</strong></p>
             </div>
         </div>
-    </div>
+    </div>)
 }
 
 export default Testimonials;

@@ -1,7 +1,8 @@
 import React from "react";
 
 const Services = () => {
-    return <div class="container main-content">
+    return (
+    <div class="container main-content">
         <div className="row mt-5">
             <div className="col-md-12">
                 <h2 class="mb-4">Services</h2>
@@ -65,7 +66,7 @@ const Services = () => {
                 </div>
             </div>
         </div>
-    </div>
+    </div>)
 }
 
 export default Services;

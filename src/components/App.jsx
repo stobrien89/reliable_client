@@ -15,14 +15,13 @@ function App() {
   return (
     <>
       <HeaderNav />
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route path="/services" component={Services}/>
-        <Route path="/testimonials" component={Testimonials}/>
-        <Route path="/about" component={About}/>
-        <Route path="/contact" component={Contact}/>
-        
-      </Switch>
+        <Switch>
+            <Route exact path="/" component={Home} />
+            <Route path="/services" component={Services}/>
+            <Route path="/testimonials" component={Testimonials}/>
+            <Route path="/about" component={About}/>
+            <Route path="/contact" component={Contact}/>
+        </Switch>
       <FooterNav />
     </>
   );
