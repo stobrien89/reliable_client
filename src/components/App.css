@@ -9,17 +9,18 @@ html {
 
 .banner-image {
   height: 40vh;
-  background: url("../placeholder.jpg");
-}
-
-.bg-cover {
+  background: url("../banner.png");
   background-size: 100% 100%;
+  padding: 0 important!;
 }
 
-.jumbotron {
-  margin-bottom: 0 !important;
+.header-background {
+  background-color: rgb(9, 28, 58);
 }
 
-nav {
-  margin-bottom: 0 !important;
+@media only screen and (max-width: 990px) {
+  .banner-image {
+    background: url("../mobile_banner.png");
+    background-size: 100% 100%;
+  }
 }
