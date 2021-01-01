@@ -16,7 +16,7 @@ const Services = () => {
                     <i className="fa fa-bath fa-lg"></i>
                     <h5 class="ml-3">Plumbing</h5>
                 </div>
-                <div className="row">
+                <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
@@ -25,7 +25,7 @@ const Services = () => {
                     <i className="fa fa-window-restore fa-lg"></i>
                     <h5 class="ml-3">Glass</h5>
                 </div>
-                <div className="row">
+                <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
@@ -34,7 +34,7 @@ const Services = () => {
                 <i className="fa fa-wrench fa-lg"></i>
                     <h5 class="ml-3">Drywall</h5>
                </div>
-               <div className="row">
+               <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
@@ -43,7 +43,7 @@ const Services = () => {
                     <i className="fa fa-paint-brush fa-lg"></i>
                     <h5 class="ml-3">Painting</h5>
                 </div>
-                <div className="row">
+                <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
@@ -52,7 +52,7 @@ const Services = () => {
                     <i className="fa fa-plug fa-lg"></i>
                     <h5 class="ml-3">Electrical</h5>
                 </div>
-                <div className="row">
+                <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>
@@ -61,7 +61,7 @@ const Services = () => {
                 <i className="fa fa-wrench fa-lg"></i>
                     <h5 class="ml-3">Furniture</h5>
                </div>
-               <div className="row">
+               <div className="row service">
                     <p>Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </div>
             </div>

@@ -3,9 +3,9 @@ import React from "react";
 const Home = () => {
   return <div className="container main-content">
     <div class="row featurette mb-5 mt-5">
-          <div class="col-md-7">
-            <h2 class="featurette-heading mb-3">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-            <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <div class="col-md-7 mb-2">
+            <h3 class="featurette-heading mb-3">Quick and convenient home repairs. <br/> <span class="text-muted"><em>At the right price.</em></span></h3>
+            <p class="lead">Serving the greater Fort Lauderdale, Boca Raton and West Palm Beach areas, Reliable home maintenance and repair service is all about providing quality service at a fair rate. Call today for a free estimate!</p>
           </div>
           <div class="col-md-5">
             <img class="featurette-image img-fluid mx-auto" src="assets/placeholderman.jpg" alt="Generic placeholder image"/>
