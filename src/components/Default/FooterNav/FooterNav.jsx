@@ -9,7 +9,7 @@ const FooterNav = () => {
       
       <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
         <h5 class="text-uppercase">About Us</h5>
-        <p class="footer-text">Reliable is an independent, family-owned business that truly cares about its customers' wants and needs. We were founded with a focus on providing customers with transparent, quality work on their home, without the huge price tag. We are here to take care of your needs— Contact us today for an estimate!
+        <p class="footer-text">Reliable is an independent, family-owned business that truly cares about its customers' wants and needs. We were founded with a focus on providing customers with transparent, quality work on their home or business, without the huge price tag. We are here to take care of your needs— Contact us today for an estimate!
         </p>
       </div>
      

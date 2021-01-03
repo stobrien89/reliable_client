@@ -15,7 +15,7 @@ const Testimonials = () => {
         <div className="row mb-5">
             <div className="col-md-6">
                 <p>"Great work for a great price! Fixed our sliding glass doors for a fraction of what others are charging."</p>
-                <p><strong>-Carlos G.</strong></p>
+                <p><strong>-Michelle A.</strong></p>
             </div>
             <div className="col-md-6">
                 <p>"None of our windows were staying open, called multiple window companys and nobody showed up. Reliable came and had everything fixed same day!"</p>
