@@ -7,7 +7,7 @@ const Testimonials = () => {
             <div className="col-md-12">
                 <h2 class="mb-4">Testimonials</h2>
                 <p class="lead">
-                    If you’re looking for the highest quality work from a professional, reliable, and honest handyman in Fort Lauderdale, Boca Raton, West Palm Beach and the surrounding areas, you’ve come to the right place. See what some of our customers are saying:
+                    If you’re looking for the highest quality work from a professional, <em>reliable</em>, and honest handyman in Fort Lauderdale, Boca Raton, West Palm Beach and the surrounding areas, you’ve come to the right place. See what our customers are saying:
                 </p>
             </div>
         </div>

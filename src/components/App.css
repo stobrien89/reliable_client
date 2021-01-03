@@ -29,3 +29,11 @@ html {
   padding-left: 10px;
   padding-right: 10px;
 }
+
+footer {
+  color: rgb(253, 188, 58);
+}
+
+.icon {
+  color: rgb(109, 117, 125);
+}
